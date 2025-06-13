@@ -1,0 +1,4 @@
+user_id,order_date,status
+1,2024-01-01,pending
+2,2024-02-01,shipped
+3,2024-03-01,delivered

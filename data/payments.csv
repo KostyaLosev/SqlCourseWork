@@ -1,0 +1,4 @@
+order_id,payment_method,amount,payment_date
+1,card,1000000.0,2024-01-02
+2,paypal,1500000.0,2024-02-02
+3,bank_transfer,1000.0,2024-03-02

@@ -1,0 +1,4 @@
+username,email,password_hash
+artlover1,art1@example.com,hash1
+galleryQueen,queen@example.com,hash2
+printFan,fan@example.com,hash3
